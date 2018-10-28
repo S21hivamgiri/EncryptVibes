@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "alias encryptvibes='java -jar /usr/bin/EncryptVibes.jar'" >> ~/.bash_aliases
+source ~/.bash_aliases
+chmod 777 .bash_aliases
+
+

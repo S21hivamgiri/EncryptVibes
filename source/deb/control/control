@@ -1,0 +1,12 @@
+Package: EncryptVibes
+Version: 1.6
+Architecture: amd64
+Maintainer: Shivam Kumar Giri <shivamgiri2015@gmail.com>
+Installed-Size: 102
+Depends: openjdk-8-jdk
+Suggests: cufs-pdf
+Section: editors
+Priority: optional
+Description:
+ EncryptVibes is a simple java awt based text editor with user interface
+ similar to Notepad with Encryption, formatting and networking and alarm features. 
